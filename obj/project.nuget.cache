@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "464FhqqAUdox3XPIBrWxlXSvsltl9SPRjp4Gg8JKGwpJAM9nUntW+eHLUaw2V9nPnCtstNwt3tL6eyy80bkYrw==",
+  "dgSpecHash": "FR8hHomzimIPW0OsDAzR4Pdam6lMou5IDju5lmCHYuexflLlj79l2VQ0QsuI+y5+fNG9+ctKKbG0EbV47wzy7g==",
   "success": true,
-  "projectFilePath": "/home/luis/projetos/SignalRChat/SignalRChat.csproj",
+  "projectFilePath": "/home/luis/projetos/signalRChat/SignalRChat.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

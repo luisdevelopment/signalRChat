@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/luis/projetos/SignalRChat/SignalRChat.csproj",
+      "projectUniqueName": "/home/luis/projetos/signalRChat/SignalRChat.csproj",
       "projectName": "SignalRChat",
-      "projectPath": "/home/luis/projetos/SignalRChat/SignalRChat.csproj",
+      "projectPath": "/home/luis/projetos/signalRChat/SignalRChat.csproj",
       "packagesPath": "/home/luis/.nuget/packages/",
-      "outputPath": "/home/luis/projetos/SignalRChat/obj/",
+      "outputPath": "/home/luis/projetos/signalRChat/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/luis/.nuget/NuGet/NuGet.Config"
