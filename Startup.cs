@@ -54,6 +54,12 @@ namespace SignalRChat
                 endpoints.MapRazorPages();
                 endpoints.MapHub<ChatHub>("/chatHub"); // Linha adicionada
             });
+            app.UseCors(builder =>
+            {
+                builder.WithOrigins("*")
+                    .AllowAnyHeader()
+                    .AllowAnyMethod();
+            });
         }
     }
 }
